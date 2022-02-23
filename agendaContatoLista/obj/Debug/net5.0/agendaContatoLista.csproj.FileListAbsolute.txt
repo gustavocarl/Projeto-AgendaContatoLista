@@ -1,0 +1,16 @@
+C:\Users\Gustavo Carl\source\repos\agendaContatoLista\agendaContatoLista\obj\Debug\net5.0\agendaContatoLista.csproj.AssemblyReference.cache
+C:\Users\Gustavo Carl\source\repos\agendaContatoLista\agendaContatoLista\obj\Debug\net5.0\agendaContatoLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Carl\source\repos\agendaContatoLista\agendaContatoLista\obj\Debug\net5.0\agendaContatoLista.AssemblyInfoInputs.cache
+C:\Users\Gustavo Carl\source\repos\agendaContatoLista\agendaContatoLista\obj\Debug\net5.0\agendaContatoLista.AssemblyInfo.cs
+C:\Users\Gustavo Carl\source\repos\agendaContatoLista\agendaContatoLista\obj\Debug\net5.0\agendaContatoLista.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Carl\source\repos\agendaContatoLista\agendaContatoLista\bin\Debug\net5.0\agendaContatoLista.exe
+C:\Users\Gustavo Carl\source\repos\agendaContatoLista\agendaContatoLista\bin\Debug\net5.0\agendaContatoLista.deps.json
+C:\Users\Gustavo Carl\source\repos\agendaContatoLista\agendaContatoLista\bin\Debug\net5.0\agendaContatoLista.runtimeconfig.json
+C:\Users\Gustavo Carl\source\repos\agendaContatoLista\agendaContatoLista\bin\Debug\net5.0\agendaContatoLista.runtimeconfig.dev.json
+C:\Users\Gustavo Carl\source\repos\agendaContatoLista\agendaContatoLista\bin\Debug\net5.0\agendaContatoLista.dll
+C:\Users\Gustavo Carl\source\repos\agendaContatoLista\agendaContatoLista\bin\Debug\net5.0\agendaContatoLista.pdb
+C:\Users\Gustavo Carl\source\repos\agendaContatoLista\agendaContatoLista\obj\Debug\net5.0\agendaContatoLista.dll
+C:\Users\Gustavo Carl\source\repos\agendaContatoLista\agendaContatoLista\obj\Debug\net5.0\refint\agendaContatoLista.dll
+C:\Users\Gustavo Carl\source\repos\agendaContatoLista\agendaContatoLista\obj\Debug\net5.0\agendaContatoLista.pdb
+C:\Users\Gustavo Carl\source\repos\agendaContatoLista\agendaContatoLista\obj\Debug\net5.0\agendaContatoLista.genruntimeconfig.cache
+C:\Users\Gustavo Carl\source\repos\agendaContatoLista\agendaContatoLista\obj\Debug\net5.0\ref\agendaContatoLista.dll
