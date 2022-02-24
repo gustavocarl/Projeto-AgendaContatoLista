@@ -248,17 +248,20 @@ namespace agendaContatoLista
             {
                 do
                 {
-                    if (order.Compare(aux1.Nome, contatoExclusao.Nome) == 0)
+                    if ((order.Compare(aux1.Nome, contatoExclusao.Nome) == 0) && (order.Compare(aux1.Email, contatoExclusao.Email) == 0))
                     {
                         aux2.Proximo = aux1.Proximo;
                         if (aux2.Proximo == null)
                         {
                             Tail = aux2;
                         }
+                        aux1 = null;
                     }
-
-                    aux2 = aux1;
-                    aux1 = aux1.Proximo;
+                    else
+                    {
+                        aux2 = aux1;
+                        aux1 = aux1.Proximo;
+                    }
                 } while (aux1 != null);
                 if (ContarContatos() == 1)
                 {
@@ -374,6 +377,8 @@ namespace agendaContatoLista
             if (Vazia())
             {
                 Console.WriteLine("Não há nenhum contato inserido na lista!!!");
+                Console.WriteLine("Não contém nenhum contato nessa lista!");
+                Console.WriteLine("Pressione ENTER para continuar...");
                 Console.ReadLine();
             }
             else

@@ -55,6 +55,7 @@ namespace agendaContatoLista
             } while (aux != null);
             return telefoneEncontrado;
         }
+
         public ListaTelefone EditarTelefone(ListaTelefone listaDeTelefones)
         {
             int quantidadeTelefones = listaDeTelefones.ContarTelefones(), totalDeTelefones = 0, escolhaDeOpcao;
